@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\densk\\Desktop\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|c:\\users\\densk\\desktop\\lab4\\lab4\\mainform_mvp\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\mainform_mvp\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\mainform_mvp\\mainform_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\mainform_mvp\\mainform_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\mainform_mvp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\mainform_mvp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\mainform_mvp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\mainform_mvp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\mainform_mvp\\imainformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\mainform_mvp\\imainformview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\mainform_mvp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\mainform_mvp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|C:\\Users\\densk\\Desktop\\lab4\\lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF885FD-8544-4B89-8FEA-12E10F104A35}|lab4\\lab4.csproj|solutionrelative:lab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultForm.cs",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\ResultForm.cs",
+              "RelativeDocumentMoniker": "lab4\\ResultForm.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\ResultForm.cs",
+              "RelativeToolTip": "lab4\\ResultForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:20:46.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResultForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\ResultForm.cs",
+              "RelativeDocumentMoniker": "lab4\\ResultForm.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\ResultForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "lab4\\ResultForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:18:46.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm_Model.cs",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainForm_Model.cs",
+              "RelativeDocumentMoniker": "lab4\\MainForm_MVP\\MainForm_Model.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainForm_Model.cs",
+              "RelativeToolTip": "lab4\\MainForm_MVP\\MainForm_Model.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAUwDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:09:54.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainForm.cs",
+              "RelativeDocumentMoniker": "lab4\\MainForm_MVP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "lab4\\MainForm_MVP\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:25:28.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainForm.cs",
+              "RelativeDocumentMoniker": "lab4\\MainForm_MVP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainForm.cs",
+              "RelativeToolTip": "lab4\\MainForm_MVP\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:35:20.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMainFormView.cs",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\IMainFormView.cs",
+              "RelativeDocumentMoniker": "lab4\\MainForm_MVP\\IMainFormView.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\IMainFormView.cs",
+              "RelativeToolTip": "lab4\\MainForm_MVP\\IMainFormView.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:49:51.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "lab4\\MainForm_MVP\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainPresenter.cs",
+              "RelativeToolTip": "lab4\\MainForm_MVP\\MainPresenter.cs",
+              "ViewState": "AgIAAHABAAAAAAAAAAAUwH4BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:49:28.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\App.config",
+              "RelativeDocumentMoniker": "lab4\\App.config",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\App.config",
+              "RelativeToolTip": "lab4\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-28T12:55:55.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "lab4\\MainForm_MVP\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\MainForm_MVP\\MainForm.Designer.cs",
+              "RelativeToolTip": "lab4\\MainForm_MVP\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T11:55:03.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\Program.cs",
+              "RelativeDocumentMoniker": "lab4\\Program.cs",
+              "ToolTip": "C:\\Users\\densk\\Desktop\\lab4\\lab4\\Program.cs",
+              "RelativeToolTip": "lab4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T10:50:41.769Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

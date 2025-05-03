@@ -1,0 +1,14 @@
+# Включаем сжатие
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript
+</IfModule>
+
+# Убираем www (если нужно)
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.prorab-ivan\.od\.ua$ [NC]
+RewriteRule ^(.*)$ https://prorab-ivan.od.ua/$1 [L,R=301]
+
+# Языковые переадресации можно сделать вручную, если нужно:
+# Пример: переадресация с /ua/ на index-ua.html
+RewriteCond %{REQUEST_URI} ^/ua/?$
+RewriteRule ^.*$ /index-ua.html [L,R=301]

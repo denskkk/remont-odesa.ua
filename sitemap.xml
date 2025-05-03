@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://prorab-ivan.od.ua/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prorab-ivan.od.ua/index.html" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prorab-ivan.od.ua/index-ua.html" />
+  </url>
+  <url>
+    <loc>https://prorab-ivan.od.ua/index-ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://prorab-ivan.od.ua/index-ua.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://prorab-ivan.od.ua/index.html" />
+  </url>
+</urlset>
