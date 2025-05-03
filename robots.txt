@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prorab-ivan.od.ua/sitemap.xml
+Sitemap: https://remont-odesa.site/sitemap.xml
